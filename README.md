@@ -15,6 +15,5 @@
 - Live Data
 - Retrofit
 - Glide
-- Gson
 - Room
 - Firebase
