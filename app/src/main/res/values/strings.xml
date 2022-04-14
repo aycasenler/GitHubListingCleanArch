@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">GitHubListingCleanArch</string>
+    <string name="app_name">GitHub Listing</string>
+    <string name="error_message">Something went wrong..</string>
+    <string name="search_text">Please enter username for search..</string>
+    <string name="followers_text">Followers</string>
+    <string name="public_repos_text">Public Repos</string>
+    <string name="following_text">Following</string>
 </resources>
