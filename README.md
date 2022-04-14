@@ -2,7 +2,7 @@
 
 - Searchable users with detail screen
 - Add users to favorite
-- zoom avatar
+- Pinch zoom avatar
 - Add users to Room & Firestore
 
 # Libraries
